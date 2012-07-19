@@ -2,3 +2,6 @@
 [submodule "public/js/ace"]
 	path = public/js/ace
 	url = git://github.com/ajaxorg/ace.git
+[submodule "library"]
+	path = library
+	url = https://github.com/frapi/frapi-common.git
