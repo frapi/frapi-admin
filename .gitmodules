@@ -1,3 +1,4 @@
-[submodule "src/frapi/admin/public/js/ace"]
-	path = src/frapi/admin/public/js/ace
+
+[submodule "public/js/ace"]
+	path = public/js/ace
 	url = git://github.com/ajaxorg/ace.git
